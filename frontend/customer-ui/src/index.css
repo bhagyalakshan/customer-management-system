@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  color: #083344;
+  background:
+    radial-gradient(circle at 6% 12%, #cffafe 0%, transparent 28%),
+    radial-gradient(circle at 92% 88%, #e0f7ff 0%, transparent 34%),
+    #f3fcff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

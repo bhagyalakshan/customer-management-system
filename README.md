@@ -27,7 +27,7 @@ mvn spring-boot:run
 2. Frontend
 
 ```bash
-cd frontend
+cd frontend/customer-ui
 npm install
 npm start
 ```
